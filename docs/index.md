@@ -1,5 +1,15 @@
 # Efficient use of the CPU nodes on Dardel and Arrhenius 
 
+*This course is a collaboration between NAISS and PDC. The lectures will be provided by Hewlett Packard Enterprise (HPE)*
+
+This training course will discuss the efficient use of the CPU nodes on NAISS' Dardel and future NAISS' Arrhenius system.  
+
+Dardel is NAISS' current flagship service hosted at PDC in KTH.   Arrhenius which is currently being installed will be NAISS' forthcoming powerful supercomputer that is build together with EuroHPC.   Both systems utilise hardware provided by Hewlett Packard Enterprise (HPE).  The course will delivered by consultants from HPE.  
+
+This cours is expected to be of particular interest for research groups developing Scientific software to be deployed on either Dardel or Arrhenius or both.
+
+
+
 These pages contain information about the HPE training event on 27-28 January 2026, given under NAISS and PDC. 
 
 ![KTH logo](../images/KTH_logo_RGB_bla.png) ![NAISS logo](../naiss.png)
@@ -10,13 +20,31 @@ These pages contain information about the HPE training event on 27-28 January 20
 
 ## Location 
 
-Kungliga Tekniska Högskolan (KTH)
+Kungliga Tekniska Högskolan (KTH), Stockholm.
+
+The precise location will be announced closer to the event.
 
 ## Schedule 
 
-27-28 January, 2026. 
+27-28 January 2026. 
 
 9:00 - 17:30 each day. 
+
+## Topics
+The course covers the following topics (preliminary):
+
+- CPU part of Dardel and Arrhenius Architecture, programming and execution environment
+- Overview of compilers and parallel programming Models
+- Compilers, libraries, runtime and performance optimization: Improving single-core performance
+- MPI topics on the HPE Cray EX supercomputer
+- Advanced mapping of parallel applications on the CPU partition
+- Python on the HPE Cray EX Supercomputer
+- Introdcution to Perftools - Perftools-lite modules
+- Advanced performance analysis
+- Debugging at Scale
+- Optimizing large scale I/O
+
+There will be time in the schedule for hand on exercises on NAISS' Dardel system.
 
 ## Comments and questions 
 
@@ -26,6 +54,6 @@ Comments and questions on these training events should be sent to NAISS using <a
 
 You can find the registration here: 
 
-Registration is set to close on  
+Registration is set to close on 15th January 2026.  Acceptance on the course will be announced no later than the 19th January 2026. 
 
 
