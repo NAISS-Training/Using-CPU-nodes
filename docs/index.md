@@ -33,7 +33,7 @@ The course covers the following topics (preliminary):
 - MPI topics on the HPE Cray EX supercomputer
 - Advanced mapping of parallel applications on the CPU partition
 - Python on the HPE Cray EX Supercomputer
-- Introdcution to Perftools - Perftools-lite modules
+- Introduction to Perftools - Perftools-lite modules
 - Advanced performance analysis
 - Debugging at Scale
 - Optimizing large scale I/O
