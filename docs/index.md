@@ -14,7 +14,7 @@ Kungliga Tekniska Högskolan (KTH)
 
 ### Registration 
 
-You can find the registraion here: 
+You can find the registration here: 
 
 Registration is set to close on  
 
