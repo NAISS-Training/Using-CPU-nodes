@@ -12,5 +12,6 @@ Kungliga Tekniska Högskolan (KTH)
 
 27-28 January 2026
 
+9:00 - 17:30 each day. 
 
 

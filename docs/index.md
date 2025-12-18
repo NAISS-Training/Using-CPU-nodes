@@ -10,7 +10,13 @@ Kungliga Tekniska Högskolan (KTH)
 
 ### Schedule 
 
+27-28 January, 2026. 
+
+9:00 - 17:30 each day. 
+
 ### Comments and questions 
+
+Comments and questions on these training events should be sent to NAISS using <a href="https://supr.naiss.se/support/?problem_type=training_event" target="_blank">the support form in SUPR</a>. Please select “Question about a training event” as “Problem or Questions Type”.
 
 ### Registration 
 
