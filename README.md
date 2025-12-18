@@ -1,6 +1,6 @@
 # Efficient use of the CPU nodes on Dardel and Arrhenius
 
-These pages contain information about the HPE training event on 27-28 January 2026, given under NAISS. 
+These pages contain information about the HPE training event on 27-28 January 2026, given under NAISS and PDC. 
 
 ## Location
 
