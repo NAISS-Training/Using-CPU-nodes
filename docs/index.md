@@ -2,6 +2,8 @@
 
 *This course is a collaboration between NAISS and PDC. The lectures will be provided by Hewlett Packard Enterprise (HPE)*
 
+27 - 28 January 2026
+
 ![KTH logo](./images/KTH_logo_RGB_bla.png){: width="200px"} ![NAISS logo](./images/naiss.png){: width="200px"}
 
 This training course will discuss the efficient use of the CPU nodes on NAISS' Dardel and NAISS' forthcoming Arrhenius system.  
