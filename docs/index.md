@@ -8,7 +8,9 @@ This training course will discuss the efficient use of the CPU nodes on NAISS' D
 
 Dardel is NAISS' current flagship service hosted at PDC in KTH.   Arrhenius which is currently being installed will be NAISS' forthcoming powerful supercomputer that is build together with EuroHPC.   Both systems utilise hardware provided by Hewlett Packard Enterprise (HPE).  The course will delivered by consultants from HPE.  
 
-This course is expected to be of particular interest for research groups developing Scientific software to be deployed on either Dardel or Arrhenius or both.
+This course is expected to be of particular interest for research groups developing Scientific software to be deployed on either Dardel or Arrhenius or both.  
+
+This course is aimed at users with experience in HPC, this is not a beginners course.   Our NAISS introduction week might be more suitable for new users of HPC: [https://naiss-training.github.io/NAISS-intro-week/](https://naiss-training.github.io/NAISS-intro-week/).   This course will discuss will not discuss any GPU usage, it is aimed at CPU usage only.   We plan to offer a course on GPU usage at a later stage.
 
 
 
