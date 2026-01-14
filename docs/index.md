@@ -19,9 +19,13 @@ This course will not discuss any GPU usage.  It is aimed at CPU usage only.   We
 
 ## Location 
 
-Kungliga Tekniska Högskolan (KTH), Stockholm.
+Room: Salongen at the KTH Library
+Osquars backe 31
+Stockholm
 
-The precise location will be announced closer to the event.
+**Remark:** To reach the venue, enter through the library, then turn left (through the café).
+
+[Location of the library on Google Maps (external link)](https://www.google.com/maps/place/59°20'52.4%22N+18°04'23.1%22E/@59.347878,18.073089,802m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d59.347878!4d18.073089?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D)
 
 ## Schedule 
 
